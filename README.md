@@ -1,1 +1,2 @@
 # shooping-list
+This JavaScript code snippet enables users to interactively manage a list on a web page. It consists of an input field, a button, and a list. When the button is clicked, the code checks if the input field is empty; if so, it prompts the user to add an item. If the input field contains text, a new list item is created with the entered text, along with a "Delete" button. Clicking the "Delete" button removes the corresponding list item from the list. This code provides a basic framework for adding and removing items from a list dynamically on a webpage.
