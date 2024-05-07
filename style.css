@@ -1,0 +1,54 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#main{
+    background-color:#494D5f ;
+    height:500px;
+    width:500px;
+    display: flex;
+    flex-direction: column;
+    margin-top:8% ;
+    margin-left: 33%;
+    align-items: center;
+}
+
+#header{
+    color: white;
+    margin: 15px;
+    
+}
+#label{
+    color: azure;
+    font-size: 22px;
+}
+#btn{
+    height: 30px;
+    width: 70px;
+    color: white;
+    background-color: green;
+    border-color: none;
+}
+#item{
+    background-color:blanchedalmond;
+    width:200px;
+    height: 25px;
+    text-align: center;
+    font-size: 15px;
+}
+
+li {
+    margin-top: 15px;
+    list-style-type:none;
+    color: white;
+    font-size: 18px;
+    }
+
+li button {
+    color: white;
+    font-size: 13px;
+    margin-left: 20px;
+    background-color:rgb(213, 7, 7);
+    padding: 5px;
+    border: none;
+    }
